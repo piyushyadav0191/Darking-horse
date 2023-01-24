@@ -1,6 +1,6 @@
 # darking-horse README
 
-![Demo](./main.png)
+![Demo](main.png)
 
 ## Working with Markdown
 
