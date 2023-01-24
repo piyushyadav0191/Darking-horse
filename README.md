@@ -1,6 +1,7 @@
 # darking-horse README
 
-![Demo](main.png)
+![image](https://user-images.githubusercontent.com/84402719/214340009-7760d203-2fc5-4c0f-a0a0-7454fcd94b50.png)
+
 
 ## Working with Markdown
 
