@@ -1,6 +1,6 @@
 # darking-horse README
 
-![Demo](https://github.com/piyushyadav0191/Darking-horse/blob/main/main.png)
+![Demo](./main.png)
 
 ## Working with Markdown
 
