@@ -137,7 +137,7 @@ This is because the [integrated terminal in VS Code has a minimum contrast ratio
 
 ## Development
 
-Wanna try out customizing and contributing to _Karma_? Thanks! Here's how:
+Wanna try out customizing and contributing to _Darking Horse_? Thanks! Here's how:
 
 - Fork and clone this repository
 - This project uses [pnpm](https://pnpm.io/)—make sure you've [installed and set it up](https://pnpm.io/installation) correctly!
