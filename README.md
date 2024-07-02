@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/84402719/214473123-5a483e30-6815-4e75-8e4a-903ba83a3dde.png)
 
 ### Creater 
-[Piyush Yadav](https://heypiyush.vercel.app/)
+[Piyush Yadav](https://ypiyush.tech/)
 
 
 A colorful mix of [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu), Lucy and [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda) themes.
